@@ -49,7 +49,6 @@ Every inventory movement is recorded:
 | Role               |
 |--------------------|
 | Admin              |
-| Warehouse Owner    |
 | Warehouse Manager  |
 | Warehouse Staff    |
 | Supplier           |
